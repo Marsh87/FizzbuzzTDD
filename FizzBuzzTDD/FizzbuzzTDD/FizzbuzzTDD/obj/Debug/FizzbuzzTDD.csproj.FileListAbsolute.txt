@@ -1,0 +1,7 @@
+C:\systems\Fizzbuzz\FizzbuzzTDD\FizzbuzzTDD\bin\Debug\FizzbuzzTDD.dll
+C:\systems\Fizzbuzz\FizzbuzzTDD\FizzbuzzTDD\bin\Debug\FizzbuzzTDD.pdb
+C:\systems\Fizzbuzz\FizzbuzzTDD\FizzbuzzTDD\bin\Debug\nunit.framework.dll
+C:\systems\Fizzbuzz\FizzbuzzTDD\FizzbuzzTDD\bin\Debug\nunit.framework.xml
+C:\systems\Fizzbuzz\FizzbuzzTDD\FizzbuzzTDD\obj\Debug\FizzbuzzTDD.csprojResolveAssemblyReference.cache
+C:\systems\Fizzbuzz\FizzbuzzTDD\FizzbuzzTDD\obj\Debug\FizzbuzzTDD.dll
+C:\systems\Fizzbuzz\FizzbuzzTDD\FizzbuzzTDD\obj\Debug\FizzbuzzTDD.pdb
